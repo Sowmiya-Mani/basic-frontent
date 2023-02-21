@@ -1,0 +1,55 @@
+body{
+    margin:0;
+    padding: 20px;
+}
+span{
+    font-size: 50px;
+    color: brown;
+}
+h1{
+    font-size: 50px;
+}
+
+.navbar ul{
+    list-style: none;
+    padding: 0;
+    margin:0;
+    
+}
+.navbar li{
+    display: inline-block;
+    
+}
+.navbar a{
+    text-align: center;
+    text-decoration: none;
+    color: rgb(247, 238, 246);
+    background-color: rgb(9, 92, 45);
+    width: 100%;
+    display: block;
+    font-weight: bold;
+    text-transform: capitalize;
+    padding: 15px 10px
+
+}
+.navbar a:hover{
+    color: rgb(17, 1, 1);
+}
+.head{
+    display: flex;
+    background-color: rgb(206, 229, 126);
+    justify-content: space-between;
+}
+p{
+    text-align: justify;
+    font-size: 35px;
+    font-style: italic;
+    margin-top: -70px;
+    margin-left: 100px;
+    color: orangered;
+}
+h2{
+    font-size: 50px;
+    padding: 20px 20px;
+
+}
