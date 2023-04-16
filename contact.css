@@ -5,12 +5,18 @@
 }
 p1{
     font-size: 40px ;
+    font-style: bold;
+
 }
 p2{
-    font-size: 25px;
+    font-size: 35px;
+    font-style: bold;
 }
 body{
-    background-color: rgb(206, 229, 126);
+    background-color: rgb(255, 255, 255);
+}
+h1{
+    font-size: 50px;
 }
 .navbar ul{
     list-style: none;
@@ -35,11 +41,14 @@ body{
 
 }
 .navbar a:hover{
-    color: rgb(17, 1, 1);
+    color: rgb(252, 226, 31);
+}
+span{
+    font-size: 50px;
+    color: brown;
 }
 .head{
     display: flex;
     background-color: rgb(206, 229, 126);
     justify-content: space-between;
 }
-
